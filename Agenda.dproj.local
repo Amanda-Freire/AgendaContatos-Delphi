@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/28 14:48:38.000.897,=C:\Users\amand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/28 14:54:16.000.439,C:\Delphi\Projetos\Agenda de Contatos\Agenda.dfm=C:\Users\amand\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/28 14:54:16.000.439,C:\Delphi\Projetos\Agenda de Contatos\Agenda.pas=C:\Users\amand\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/28 14:54:29.000.609,C:\Delphi\Projetos\Agenda de Contatos\UDmdAgenda.dproj=C:\Users\amand\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/01/28 17:28:50.000.294,C:\Delphi\Projetos\Agenda de Contatos\Agenda.dfm=C:\Delphi\Projetos\Agenda de Contatos\UDmdAgenda.dfm</Transaction>
+    <Transaction>2022/01/28 17:28:50.000.294,C:\Delphi\Projetos\Agenda de Contatos\Agenda.pas=C:\Delphi\Projetos\Agenda de Contatos\UDmdAgenda.pas</Transaction>
+    <Transaction>2022/01/28 17:28:57.000.106,C:\Delphi\Projetos\Agenda de Contatos\UDmdAgenda.dproj=C:\Delphi\Projetos\Agenda de Contatos\Agenda.dproj</Transaction>
+    <Transaction>2022/02/01 09:49:33.000.396,=C:\Delphi\Projetos\Agenda de Contatos\Unit1.pas</Transaction>
+    <Transaction>2022/02/01 09:50:07.000.150,=C:\Delphi\Projetos\Agenda de Contatos\Unit1.pas</Transaction>
+    <Transaction>2022/02/01 09:50:22.000.547,=C:\Delphi\Projetos\Agenda de Contatos\Unit2.pas</Transaction>
+    <Transaction>2022/02/01 09:50:39.000.270,C:\Delphi\Projetos\Agenda de Contatos\CSTAGENDA.dfm=C:\Delphi\Projetos\Agenda de Contatos\Unit2.dfm</Transaction>
+    <Transaction>2022/02/01 09:50:39.000.270,C:\Delphi\Projetos\Agenda de Contatos\CSTAGENDA.pas=C:\Delphi\Projetos\Agenda de Contatos\Unit2.pas</Transaction>
+    <Transaction>2022/02/01 09:52:30.000.643,=C:\Delphi\Projetos\Agenda de Contatos\Unit2.pas</Transaction>
+    <Transaction>2022/02/01 09:53:01.000.595,C:\Delphi\Projetos\Agenda de Contatos\CSTAGENDA.dfm=C:\Delphi\Projetos\Agenda de Contatos\Unit2.dfm</Transaction>
+    <Transaction>2022/02/01 09:53:01.000.595,C:\Delphi\Projetos\Agenda de Contatos\CSTAGENDA.pas=C:\Delphi\Projetos\Agenda de Contatos\Unit2.pas</Transaction>
+    <Transaction>2022/02/01 11:16:14.000.457,=C:\Delphi\Projetos\Agenda de Contatos\Unit2.pas</Transaction>
+    <Transaction>2022/02/01 11:23:30.000.181,C:\Delphi\Projetos\Agenda de Contatos\Unit2.pas=C:\Delphi\Projetos\Agenda de Contatos\UDmdMenuAgenda.pas</Transaction>
+    <Transaction>2022/02/01 11:23:30.000.181,C:\Delphi\Projetos\Agenda de Contatos\Unit2.dfm=C:\Delphi\Projetos\Agenda de Contatos\UDmdMenuAgenda.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,60 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 527
+  ClientWidth = 875
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblNome: TcxLabel
+    Left = 80
+    Top = 49
+    Caption = 'Nome'
+  end
+  object lblTelefone: TcxLabel
+    Left = 80
+    Top = 97
+    Caption = 'Telefone'
+  end
+  object lblID: TcxLabel
+    Left = 80
+    Top = 26
+    Caption = 'ID'
+  end
+  object lblEmail: TcxLabel
+    Left = 80
+    Top = 168
+    Caption = 'E-mail'
+  end
+  object lblObs: TcxLabel
+    Left = 80
+    Top = 208
+    Caption = 'Observa'#231#245'es'
+  end
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      'Database=amanda'
+      'User_Name=sa'
+      'Password=SEG@ti#TIF'
+      'Server=SUPORTE01\CORP'
+      'DriverID=MSSQL')
+    Connected = True
+    Left = 760
+    Top = 24
+  end
+  object qryContatos: TFDQuery
+    Connection = FDConnection1
+    SQL.Strings = (
+      'SELECT  ID, NOME, TELEFONE, EMAIL, OBSERVACOES'
+      'FROM     Agenda')
+    Left = 760
+    Top = 72
+  end
+end
